@@ -13,3 +13,5 @@ public class Meine {
         System.out.println("Closing Scanner...");
         s.close();
         System.out.println("Scanner Closed.");
+    }
+}
