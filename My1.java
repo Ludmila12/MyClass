@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class my1 {
+public class My1 {
     public static void main(String[] args) {
         Scanner sc2 = new Scanner(System.in);
         int n = sc2.nextInt();
